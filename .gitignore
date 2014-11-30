@@ -1,8 +1,5 @@
 #### My ignore list
 testignore.txt
-.metadata\
-.classpath\
-.project\
 # Compiled source #
 ###################
 *.com
@@ -50,6 +47,9 @@ Thumbs.db
 *.pydevproject
 .metadata
 .gradle
+.classpath
+.project
+target/
 bin/
 tmp/
 *.tmp
