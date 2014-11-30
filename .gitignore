@@ -1,6 +1,8 @@
 #### My ignore list
 testignore.txt
 .metadata\
+.classpath\
+.project\
 # Compiled source #
 ###################
 *.com
